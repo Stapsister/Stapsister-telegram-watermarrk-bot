@@ -1,0 +1,5 @@
+python-telegram-bot==22.1
+opencv-python-headless==4.11.0.86
+pillow==11.2.1
+sqlalchemy==2.0.41
+psycopg2-binary==2.9.10
