@@ -18,5 +18,5 @@
 ## Environment Variables Required
 - `TELEGRAM_BOT_TOKEN`: Your bot token from @BotFather
 - `DATABASE_URL`: PostgreSQL connection (auto-provided by Railway)
-
+Bot deployed to Railway
 Your bot will run 24/7 automatically.
